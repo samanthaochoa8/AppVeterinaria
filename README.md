@@ -1,4 +1,6 @@
 # AppVeterinaria
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1feb1d4c-120e-4a29-9ee9-2300846b1041" />
+
 
 # Descripción
 Una plataforma digital que ofrece servicios de atención veterinaria de forma remota, permitiendo a los dueños de mascotas obtener asesoramiento, diagnósticos y tratamiento para sus animales sin necesidad de acudir a una consulta presencial.
